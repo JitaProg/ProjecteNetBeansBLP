@@ -13,5 +13,6 @@ public class ProjecteNetBeansBLP {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Segona modificació de prova");
+        System.out.println("Modificacion desde la rama developLozano");
     }
 }
